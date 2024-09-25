@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="904878c0-c5a6-4da7-951c-5d6d695175ee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kBem3X2Kol2LwQ4MFlYL2sikyH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Домашняя работа №8">
+    <configuration name="Домашняя работа 7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HOMEWORKS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Домашняя работа 7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Домашняя работа №8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HOMEWORKS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Домашняя работа №8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Домашняя работа №8" />
+        <item itemvalue="Python.Домашняя работа 7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="904878c0-c5a6-4da7-951c-5d6d695175ee" name="Changes" comment="" />
+      <created>1722761553128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722761553128</updated>
+      <workItem from="1722761556491" duration="236000" />
+      <workItem from="1722761804779" duration="6000" />
+      <workItem from="1722761890019" duration="424000" />
+      <workItem from="1722762338218" duration="739000" />
+      <workItem from="1722767424364" duration="3836000" />
+      <workItem from="1722848563502" duration="1055000" />
+      <workItem from="1722849804860" duration="4000" />
+      <workItem from="1723048232949" duration="160000" />
+      <workItem from="1723111154349" duration="783000" />
+      <workItem from="1723112210270" duration="823000" />
+      <workItem from="1723114833258" duration="583000" />
+      <workItem from="1723115439716" duration="540000" />
+      <workItem from="1723117093751" duration="2015000" />
+      <workItem from="1723120056934" duration="145000" />
+      <workItem from="1723120222285" duration="50000" />
+      <workItem from="1723120972080" duration="22000" />
+      <workItem from="1723121004980" duration="433000" />
+      <workItem from="1723128588284" duration="1060000" />
+      <workItem from="1723129668232" duration="99000" />
+      <workItem from="1723131948011" duration="786000" />
+      <workItem from="1723208900446" duration="7000" />
+      <workItem from="1723211350728" duration="435000" />
+      <workItem from="1723452760195" duration="231000" />
+      <workItem from="1723458599611" duration="1180000" />
+      <workItem from="1723459827992" duration="1583000" />
+      <workItem from="1723461639462" duration="3363000" />
+      <workItem from="1723467420201" duration="111000" />
+      <workItem from="1723467535501" duration="274000" />
+      <workItem from="1723468128373" duration="155000" />
+      <workItem from="1723468291938" duration="2441000" />
+      <workItem from="1723470980861" duration="2286000" />
+      <workItem from="1723473560222" duration="775000" />
+      <workItem from="1723474376455" duration="31000" />
+      <workItem from="1723474414952" duration="601000" />
+      <workItem from="1723475058203" duration="15000" />
+      <workItem from="1723475086021" duration="1185000" />
+      <workItem from="1723478699018" duration="1055000" />
+      <workItem from="1723479828726" duration="1038000" />
+      <workItem from="1723545395710" duration="849000" />
+      <workItem from="1723558692055" duration="2069000" />
+      <workItem from="1723560786910" duration="41000" />
+      <workItem from="1723653669975" duration="165000" />
+      <workItem from="1723653916421" duration="42000" />
+      <workItem from="1723653980834" duration="772000" />
+      <workItem from="1723655250142" duration="6000" />
+      <workItem from="1723658654908" duration="649000" />
+      <workItem from="1723659966674" duration="772000" />
+      <workItem from="1723704614222" duration="135000" />
+      <workItem from="1723704796235" duration="144000" />
+      <workItem from="1723704958072" duration="1413000" />
+      <workItem from="1723707186558" duration="362000" />
+      <workItem from="1723707559991" duration="1778000" />
+      <workItem from="1723717063767" duration="5813000" />
+      <workItem from="1723735015687" duration="991000" />
+      <workItem from="1723736035654" duration="910000" />
+      <workItem from="1723743137693" duration="1265000" />
+      <workItem from="1723812991307" duration="29000" />
+      <workItem from="1723813171924" duration="13000" />
+      <workItem from="1723813714402" duration="189000" />
+      <workItem from="1723813963835" duration="407000" />
+      <workItem from="1723818582465" duration="401000" />
+      <workItem from="1723819364307" duration="262000" />
+      <workItem from="1723990682598" duration="15000" />
+      <workItem from="1723998375885" duration="50000" />
+      <workItem from="1724078527301" duration="5854000" />
+      <workItem from="1724158343739" duration="831000" />
+      <workItem from="1724160180298" duration="28000" />
+      <workItem from="1724326209889" duration="214000" />
+      <workItem from="1724330488215" duration="567000" />
+      <workItem from="1724331438102" duration="1439000" />
+      <workItem from="1724333013886" duration="112000" />
+      <workItem from="1724335561551" duration="1358000" />
+      <workItem from="1724339876994" duration="519000" />
+      <workItem from="1724340427481" duration="1868000" />
+      <workItem from="1724342344282" duration="1836000" />
+      <workItem from="1724348338469" duration="551000" />
+      <workItem from="1724348953318" duration="4000" />
+      <workItem from="1724418454574" duration="6000" />
+      <workItem from="1724515372116" duration="2168000" />
+      <workItem from="1724517919010" duration="111000" />
+      <workItem from="1724597181186" duration="653000" />
+      <workItem from="1724604651281" duration="750000" />
+      <workItem from="1724658486280" duration="1023000" />
+      <workItem from="1724666713825" duration="1540000" />
+      <workItem from="1724668770824" duration="705000" />
+      <workItem from="1724669771256" duration="1006000" />
+      <workItem from="1724671899418" duration="506000" />
+      <workItem from="1724680444886" duration="26000" />
+      <workItem from="1724732377241" duration="454000" />
+      <workItem from="1724736283639" duration="17000" />
+      <workItem from="1726492882938" duration="12000" />
+      <workItem from="1726581322779" duration="4000" />
+      <workItem from="1726838115347" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__3.coverage" NAME="домашняя работа №3 Coverage Results" MODIFIED="1723478765235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__6.coverage" NAME="Домашняя работа 6 Coverage Results" MODIFIED="1724158380883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__8.coverage" NAME="Домашняя работа №8 Coverage Results" MODIFIED="1724672352087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__1.coverage" NAME="Домашняя работа 1 Coverage Results" MODIFIED="1723129601189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__3_.coverage" NAME="Домашняя работа №3. Coverage Results" MODIFIED="1723452925874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$.coverage" NAME="муму Coverage Results" MODIFIED="1724086584611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Telegram Desktop" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__4.coverage" NAME="Домашняя работа №4 Coverage Results" MODIFIED="1723480818097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__5.coverage" NAME="Домашняя работа №5 Coverage Results" MODIFIED="1723744226057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__7.coverage" NAME="Домашняя работа 7 Coverage Results" MODIFIED="1724604661731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__2.coverage" NAME="Домашняя работа №2 Coverage Results" MODIFIED="1723111311477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HOMEWORKS$__2_.coverage" NAME="муму (2) Coverage Results" MODIFIED="1724086720755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Telegram Desktop" />
+  </component>
+</project>
